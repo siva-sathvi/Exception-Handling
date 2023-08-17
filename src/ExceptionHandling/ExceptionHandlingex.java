@@ -19,7 +19,7 @@ public class ExceptionHandlingex {
 	}
 
 	finally {
-		 System.out.println("program execution end");
+		 System.out.println("program execution success");
 		}
 	
 System.out.println("c=" +c);
